@@ -7,3 +7,5 @@ Using PowerBI, SQL Server, Oracle and Excel, I provided Data analysis, run SQL q
 •	Connected Database to many Data sources, and Wrote SQL Queries and Stored Procedures to populate reports and dashboards, and documented issues and resolutions.
 •	Developed automated dashboards and reports to support day to day business decision for Sales, Finance with feature such as Key Performance Indicators (KPIs) , Sales, COG, GP, Revenue, YTD, CB, AR, PastDue,  which increased business decision for sales to 10%, and increased productivity for 25%.
 •	Created data tracking reports to monitor Sales and Order in progress using PowerBI visualization and slicer.
+
+![Inventory](https://user-images.githubusercontent.com/43505777/211214433-d922aa4a-d949-4061-b088-da33799fd90d.png)
