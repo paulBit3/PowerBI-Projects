@@ -1,4 +1,5 @@
-# Data Visualization - Data Analysis: PowerBI-Python-SQL -Reports-Dashboards
+# Data Visualization - Data Analysis : Reports-Dashboards
+Tools used: PowerBI-Python-SQL
 
 •	Extracted dataset and cleaned  to build data visualization and analysis solution using Python and Power-BI
 •	Created interactive dashboard that helped stakeholders for business decision making by 30%
