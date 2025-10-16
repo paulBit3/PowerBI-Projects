@@ -1,11 +1,8 @@
-# PowerBI-Projects - PowerBI-SQL Server-Data Analysis-Reports-Dashboards
+# Data Visualization - Data Analysis: PowerBI-Python-SQL -Reports-Dashboards
 
-Using PowerBI, SQL Server, Oracle and Excel, I provided Data analysis, run SQL queries, built reports and dashboard.
-•	Analyzed data, produced reports and built company dashboards for Finance, Sales, Marketing using PowerBI
-•	Built and Published reports and dashboards on PowerBI online service to showcase user real time data refreshing using On-promise data gateway, which empowered and increased 20% business daily decision for stakeholders.
-•	Installed and configured Oracle and SQL Server Database to perform real time Data cleansing and visualization.
-•	Connected Database to many Data sources, and Wrote SQL Queries and Stored Procedures to populate reports and dashboards, and documented issues and resolutions.
-•	Developed automated dashboards and reports to support day to day business decision for Sales, Finance with feature such as Key Performance Indicators (KPIs) , Sales, COG, GP, Revenue, YTD, CB, AR, PastDue,  which increased business decision for sales to 10%, and increased productivity for 25%.
+•	Extracted dataset and cleaned  to build data visualization and analysis solution using Python and Power-BI
+•	Created interactive dashboard that helped stakeholders for business decision making by 30%
+•	Built and maintained financial reports, and production reports and dashboard and improved forecasting by 20%
 •	Created data tracking reports to monitor Sales and Order in progress using PowerBI visualization and slicer.
 
 ![Inventory](https://user-images.githubusercontent.com/43505777/211214433-d922aa4a-d949-4061-b088-da33799fd90d.png)
